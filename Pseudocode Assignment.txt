@@ -12,13 +12,3 @@ ELSE IF " number 3 > number 1 and number3 > number 2 , THEN
 ELSE
    DISPLAY "numbers are same "
 END
-
-# PROBLEM NO.2 
-START
-INPUT number 1.
-INPUT number 2.
-INPUT number 3.
-SET add to 0.
-SET add to -*(-number 1 -number 2 -number 3).
-DISPLAY "add"
-END
