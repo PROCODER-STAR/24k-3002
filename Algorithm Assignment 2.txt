@@ -1,0 +1,28 @@
+# PROBLEM NO.2
+Ask user to enter number.
+If number == 1 Then
+ Print 'The month is January'.
+If number == 2 Then
+ Print 'The month is Feburary'.
+If number == 3 Then
+ Print 'The month is March'.
+If number == 4 Then
+ Print 'The month is April'.
+If number == 5 Then
+ Print 'The month is May'.
+If number == 6 Then
+ Print 'The month is June'.
+If number == 7 Then
+ Print 'The month is July'.
+If number == 8 Then
+ Print 'The month is August'.
+If number == 9 Then
+ Print 'The month is September'.
+If number == 10 Then
+ Print 'The month is October'.
+If number == 11 Then
+ Print 'The month is November'.
+If number == 12 Then
+ Print 'The month is December'.
+Else
+ Print 'Invalid number, Please enter number between 1-12'.
