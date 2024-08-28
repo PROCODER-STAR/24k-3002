@@ -1,0 +1,12 @@
+# PROBLEM NO.1
+Ask the user to enter a number 'n'.
+Ask the user to enter a number to divide 'nth'.
+Set Divisibility = (n % nth).
+If Divisibility = 0 Then 
+ Print 'nth is a divisor'.
+ If nth % 2 = 0 Then 
+  Print 'even'.
+ Else
+  Print 'odd'.
+ELse
+ Print 'nth is not a divisor'.
