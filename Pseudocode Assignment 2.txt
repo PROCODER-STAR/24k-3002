@@ -1,0 +1,9 @@
+# PROBLEM NO.2 
+START
+INPUT number 1.
+INPUT number 2.
+INPUT number 3.
+SET add to 0.
+SET add to -*(-number 1 -number 2 -number 3).
+DISPLAY "add"
+END
