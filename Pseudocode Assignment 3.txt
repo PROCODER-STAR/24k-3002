@@ -1,3 +1,4 @@
+# Problem no.3
 START
 INPUT number 1.
 INPUT number 2.
